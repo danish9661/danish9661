@@ -72,13 +72,7 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=danish9661&theme=flat&no-frame=true&row=1&column=6&title_color=2563EB" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9661&layout=compact&hide_border=true&title_color=2563EB&text_color=1d1d1f&bg_color=fbfbfd&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danish9661&bg_color=fbfbfd&color=2563EB&line=3B82F6&point=1D4ED8&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
