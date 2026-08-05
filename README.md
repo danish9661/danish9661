@@ -72,12 +72,6 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 
 <div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com?user=danish9661&hide_border=true&background=fbfbfd&stroke=e5e7eb&ring=2563EB&fire=38BDF8&currStreakNum=1d1d1f&currStreakLabel=2563EB&sideNums=1d1d1f&sideLabels=1d1d1f&dates=768390&excludeDaysLabel=768390)
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish9661&bg_color=fbfbfd&color=2563EB&line=3B82F6&point=1D4ED8&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
