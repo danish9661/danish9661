@@ -22,7 +22,7 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 - **Gravitate toward** → Building tools and hardware abstractions that make complex systems easier to use
 - **Open to** → Collaborations on embedded ML, IoT platforms, and open-source hardware tools
 
-<div align="center">∿ ∿ ∿</div>
+
 
 ## Selected work
 
@@ -32,7 +32,7 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 | **[STM32-Bluepill-emu](https://github.com/danish9661/STM32-Bluepill-emu)** | An emulator for the STM32 Bluepill board, enabling testing and development without physical hardware. Streamlines the firmware CI/CD pipeline. · `C/C++` `STM32` |
 | **[es32s3-hid](https://github.com/danish9661/es32s3-hid)** | Firmware leveraging the ESP32-S3's USB capabilities to act as a Human Interface Device (HID). · `ESP32-S3` `C++` `IoT` |
 
-<div align="center">∿ ∿ ∿</div>
+
 
 ## Stack
 
@@ -66,7 +66,7 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 ![GitHub Actions](https://img.shields.io/badge/Actions-1E3A8A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<div align="center">∿ ∿ ∿</div>
+
 
 ## The stats
 
@@ -82,7 +82,7 @@ I'm an engineer who ships across **Embedded Systems**, **IoT**, and **Machine Le
 
 </div>
 
-<div align="center">∿ ∿ ∿</div>
+
 
 ## How I think about building
 
@@ -92,7 +92,7 @@ Whether it's writing close-to-the-metal C++ for an ESP32 or structuring a data p
 
 *Keep it simple, make it reliable.*
 
-<div align="center">∿ ∿ ∿</div>
+
 
 ## Let's Connect
 
